@@ -1,4 +1,4 @@
-# load libraries
+# load library
 library(dplyr) 
 
 # set dataset directory
